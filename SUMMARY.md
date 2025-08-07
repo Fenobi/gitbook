@@ -1,8 +1,10 @@
 # Summary
 
 * [简介](README.md)
-* [第一章](part1/part1.md)
-    * [第一节](part1/part1_1.md)
-    * [第二节](part1/part1_2.md)
-* [第二章](part2/part2.md)
 
+* [免责声明](public/免责声明.md)
+
+# 机型选择
+
+* [多旋翼](./垂起固定翼/main.md)
+* [垂起固定翼](./垂起固定翼/main.md)
