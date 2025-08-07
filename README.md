@@ -1,9 +1,3 @@
-# 开始
+{% include "./common/public/免责声明.md" %}
 
-* [免责声明](public/免责声明.md)
-* [简介](./public/简介.md)
 
-# 机型选择
-
-* [多旋翼](./多旋翼/main.md)
-* [垂起固定翼](./垂起固定翼/main.md)
